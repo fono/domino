@@ -2,5 +2,5 @@
 --reporter dot
 --require should
 --slow 20
---growl
-
+--timeout 15000
+--check-leaks
